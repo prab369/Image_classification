@@ -1,0 +1,6 @@
+Built an Image Classification model using CNNs (PyTorch) to classify Animal Faces (Cat, Dog, Wildlife)!
+
+🔹 Custom Dataset class for efficient image loading & preprocessing
+🔹 3-layer CNN architecture with GPU acceleration
+🔹 Achieved strong accuracy on unseen test data
+🔹 Visualized training/validation loss & accuracy trends
